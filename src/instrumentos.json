@@ -1,0 +1,85 @@
+{
+  "instrumentos": [
+    {
+      "id": 1,
+      "name": "Guitarra acústica",
+      "description": "Una guitarra acústica de alta calidad para principiantes y expertos.",
+      "price": 5000,
+      "stock": 15,
+      "category": "cuerdas"
+    },
+    {
+      "id": 2,
+      "name": "Teclado electrónico",
+      "description": "Teclado electrónico versátil con múltiples funciones y sonidos.",
+      "price": 8000,
+      "stock": 0,
+      "category": "cuerdas"
+    },
+    {
+      "id": 3,
+      "name": "Batería profesional",
+      "description": "Batería completa para músicos profesionales, incluye platillos y hardware de alta gama.",
+      "price": 15000,
+      "stock": 5,
+      "category": "percusión"
+    },
+    {
+      "id": 4,
+      "name": "Violín clásico",
+      "description": "Violín clásico con un sonido rico y auténtico, perfecto para conciertos.",
+      "price": 7000,
+      "stock": 8,
+      "category": "cuerdas"
+    },
+    {
+      "id": 5,
+      "name": "Saxofón alto",
+      "description": "Saxofón alto de alta calidad con un tono suave y potente.",
+      "price": 10000,
+      "stock": 12,
+      "category": "viento"
+    },
+    {
+      "id": 6,
+      "name": "Bajo eléctrico",
+      "description": "Bajo eléctrico de 4 cuerdas ideal para músicos de rock y jazz.",
+      "price": 9000,
+      "stock": 0,
+      "category": "cuerdas"
+    },
+    {
+      "id": 7,
+      "name": "Flauta travesera",
+      "description": "Flauta travesera plateada con un sonido claro y brillante.",
+      "price": 6000,
+      "stock": 20,
+      "category": "viento"
+    },
+    {
+      "id": 8,
+      "name": "Piano de cola",
+      "description": "Piano de cola elegante con teclas de marfil y sonido excepcional.",
+      "price": 25000,
+      "stock": 0,
+      "category": "cuerdas"
+    },
+      {
+        "id": 9,
+        "name": "Guitarra eléctrica",
+        "description": "Guitarra eléctrica con pastillas de alta ganancia para un sonido potente.",
+        "price": 7500,
+        "stock": 9,
+        "category": "cuerdas"
+      },
+      {
+        "id": 10,
+        "name": "Trompeta dorada",
+        "description": "Trompeta dorada de calidad profesional para músicos exigentes.",
+        "price": 12000,
+        "stock": 6,
+        "category": "viento"
+      }
+    ]
+  }
+  

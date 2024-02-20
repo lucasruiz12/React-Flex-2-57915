@@ -1,0 +1,57 @@
+#root {
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.navbar{
+  background-color: slategrey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar a{
+  color: black;
+  text-decoration: inherit;
+}
+.navbar a:hover{
+  color: white;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px; 
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra moderna */
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Efecto de escala en el hover */
+}
+
+.card img{
+  width: 250px;
+}
+
+.card-without-stock{
+  border: 1px solid #ddd;
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra moderna */
+  transition: transform 0.3s ease-in-out;
+  opacity: 0.5;
+}
+
+.card-without-stock img{
+  width: 250px;
+}
