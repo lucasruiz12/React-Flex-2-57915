@@ -17,6 +17,9 @@
 .navbar a:hover{
   color: white;
 }
+.navbar div:hover{
+  color: white;
+}
 
 .list {
   display: grid;
@@ -54,4 +57,8 @@
 
 .card-without-stock img{
   width: 250px;
+}
+
+.cart-icon:hover{
+  cursor: pointer;
 }
